@@ -1,0 +1,1 @@
+{"name":"Local: m6_p2","url":"f:\\PHITRON\\WEEK 2\\module 6\\m6_p2.c","tests":[{"id":1696788703767,"input":"5\n-5 0 -3 -4 12","output":"Even: 3\nOdd: 2\nPositive: 1\nNegative: 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PHITRON\\WEEK 2\\module 6\\m6_p2.c","group":"local","local":true}

@@ -1,0 +1,2 @@
+option 1 : insert value in tail 
+option 2 : show the link list
